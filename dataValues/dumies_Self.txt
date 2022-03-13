@@ -1,0 +1,98 @@
+Dumies in files data/defendants-self-identified-ethnicity.csv
+
+ethnicity: 
+Asian
+Black
+Chinese or other
+Mixed
+Not Stated
+White
+
+ageband: 
+adult
+juvenile
+
+gender: 
+Female
+Male
+Unstated
+
+country: 
+England
+Wales
+
+region: 
+??
+East Midlands
+East of England
+London
+North East
+North West
+South East
+South West
+Wales
+West Midlands
+Yorkshire and Humberside
+
+policeforcename: 
+Avon and Somerset
+Bedfordshire
+Cambridgeshire
+Cheshire
+City of London
+Cleveland
+Cumbria
+Derbyshire
+Devon and Cornwall
+Dorset
+Durham
+Dyfed-Powys
+Essex
+Gloucestershire
+Greater Manchester
+Gwent
+Hampshire
+Hertfordshire
+Humberside
+Kent
+Lancashire
+Leicestershire
+Lincolnshire
+Merseyside
+Metropolitan Police
+Norfolk
+North Wales
+North Yorkshire
+Northamptonshire
+Northumbria
+Nottinghamshire
+South Wales
+South Yorkshire
+Staffordshire
+Suffolk
+Surrey
+Sussex
+Thames Valley
+Warwickshire
+West Mercia
+West Midlands
+West Yorkshire
+Wiltshire
+
+Court_Type: 
+Crown_Court
+Magistrates_Court
+
+Offencetype: 
+1  Violence against the person
+10  Indictable motoring
+11  Summary non-motoring
+12  Summary motoring
+2  Sexual offences
+3  Burglary
+4  Robbery
+5  Theft and handling of stolen goods
+6  Fraud and forgery
+7  Criminal damage
+8  Drug offences
+9  Other (excluding motoring)

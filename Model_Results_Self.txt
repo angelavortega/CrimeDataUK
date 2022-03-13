@@ -1,0 +1,82 @@
+All models information and results are stored here
+
+Data: data/defendants-self-identified-ethnicity.csv
+Random State: 30
+Test Size: 0.4
+Independent Variables: {'Ethnicity': True, 'Ageband': True, 'Gender': True, 'Country': True, 'Region': True, 'Policeforcename': True, 'Court_Type': True, 'Offencetype': True}
+Dependent Variables: sentenced
+Model R^2 Score: 0.9062239438431219
+Model RMSE: 217.48207869884055
+Model MAE: 27.223153601273378
+
+Data: data/defendants-self-identified-ethnicity.csv
+Random State: 30
+Test Size: 0.4
+Independent Variables: {'Ethnicity': True, 'Ageband': True, 'Gender': True, 'Country': False, 'Region': True, 'Policeforcename': True, 'Court_Type': True, 'Offencetype': True}
+Dependent Variables: sentenced
+Model R^2 Score: 0.9011674914590537
+Model RMSE: 223.26847325683923
+Model MAE: 27.371314497944024
+
+Data: data/defendants-self-identified-ethnicity.csv
+Random State: 30
+Test Size: 0.4
+Independent Variables: {'Ethnicity': True, 'Ageband': True, 'Gender': True, 'Country': False, 'Region': False, 'Policeforcename': True, 'Court_Type': True, 'Offencetype': True}
+Dependent Variables: sentenced
+Model R^2 Score: 0.9022752408221365
+Model RMSE: 222.01371178358121
+Model MAE: 27.6730627404165
+
+Data: data/defendants-self-identified-ethnicity.csv
+Random State: 30
+Test Size: 0.4
+Independent Variables: {'Ethnicity': True, 'Ageband': True, 'Gender': False, 'Country': False, 'Region': False, 'Policeforcename': True, 'Court_Type': True, 'Offencetype': True}
+Dependent Variables: sentenced
+Model R^2 Score: 0.38578495613644137
+Model RMSE: 556.5929715975772
+Model MAE: 91.09807108055318
+
+Data: data/defendants-self-identified-ethnicity.csv
+Random State: 30
+Test Size: 0.4
+Independent Variables: {'Ethnicity': True, 'Ageband': True, 'Gender': True, 'Country': False, 'Region': False, 'Policeforcename': False, 'Court_Type': True, 'Offencetype': True}
+Dependent Variables: sentenced
+Model R^2 Score: 0.4023538552045206
+Model RMSE: 549.0343977935712
+Model MAE: 66.35326727223168
+
+Data: data/defendants-self-identified-ethnicity.csv
+Random State: 30
+Test Size: 0.4
+Independent Variables: {'Ethnicity': True, 'Ageband': True, 'Gender': True, 'Country': False, 'Region': False, 'Policeforcename': True, 'Court_Type': False, 'Offencetype': True}
+Dependent Variables: sentenced
+Model R^2 Score: 0.11512277511995606
+Model RMSE: 668.0654342993587
+Model MAE: 96.1249313095712
+
+Data: data/defendants-self-identified-ethnicity.csv
+Random State: 30
+Test Size: 0.4
+Independent Variables: {'Ethnicity': False, 'Ageband': True, 'Gender': True, 'Country': False, 'Region': False, 'Policeforcename': True, 'Court_Type': True, 'Offencetype': True}
+Dependent Variables: sentenced
+Model R^2 Score: 0.15876485438288312
+Model RMSE: 651.3826663871134
+Model MAE: 129.83561092277387
+
+Data: data/defendants-self-identified-ethnicity.csv
+Random State: 30
+Test Size: 0.4
+Independent Variables: {'Ethnicity': True, 'Ageband': False, 'Gender': True, 'Country': False, 'Region': False, 'Policeforcename': True, 'Court_Type': True, 'Offencetype': True}
+Dependent Variables: sentenced
+Model R^2 Score: 0.06913507478154424
+Model RMSE: 685.2054782905282
+Model MAE: 103.69445140823272
+
+Data: data/defendants-self-identified-ethnicity.csv
+Random State: 30
+Test Size: 0.4
+Independent Variables: {'Ethnicity': True, 'Ageband': True, 'Gender': True, 'Country': False, 'Region': False, 'Policeforcename': True, 'Court_Type': True, 'Offencetype': False}
+Dependent Variables: sentenced
+Model R^2 Score: 0.036532978964048834
+Model RMSE: 697.1013440472187
+Model MAE: 140.5281416707284

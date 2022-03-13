@@ -1,0 +1,7 @@
+Ethnicity,Ageband,Gender,Country,Region,Policeforcename,Court_Type,Offencetype,pred_sentenced
+Black,adult,Male,England,London,City of London,Crown_Court,8  Drug offences,16.25
+Asian,adult,Male,England,London,City of London,Crown_Court,8  Drug offences,1.0
+Chinese or other,adult,Male,England,London,City of London,Crown_Court,8  Drug offences,2.5
+Mixed,adult,Male,England,London,City of London,Crown_Court,8  Drug offences,1.0
+Not Stated,adult,Male,England,London,City of London,Crown_Court,8  Drug offences,2.6666666666666665
+White,adult,Male,England,London,City of London,Crown_Court,8  Drug offences,5.0
