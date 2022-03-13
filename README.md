@@ -40,6 +40,7 @@ python -m pip freeze > requirements.txt
 ## Running the project
 ---
 In line 13 of the file, there is a section, "Changeable variables", where you have the option to change variables that will influence the models' performance and results. 
+
 To run the project, you need to execute the decision tree file:
 ```bash
 python decision_Tree_Regresion.py
@@ -54,14 +55,24 @@ python decision_Tree_Regresion.py
 
 ## Resources
 ---
-References to the datasets, python libraries, and books that helped to the development of this project can be found here
+References to the datasets, python libraries, and books that helped to the development of this project can be found here:
+
 -Ministry of Justice of UK. (2013, November 14). Statistics on Race and the Criminal Justice System 2012. Statistics on Race and the Criminal Justice System 2012. Retrieved February 5, 2022, from https://www.gov.uk/government/statistics/statistics-on-race-and-the-criminal-justice-system-2012
+
 -Pandas. (2022). Pandas - Get Dummies. Pandas. Retrieved February 2, 2022, from https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html
+
 -Scikit Learn. (2021). 1.10. Decision Trees — scikit-learn 1.0.2 documentation. Scikit-learn. Retrieved February 6, 2022, from https://scikit-learn.org/stable/modules/tree.html#tree
+
 -Berk, R. A. (2017). Statistical Learning from a Regression Perspective (2nd ed.). Springer.
+
 -Ertel, W. (2017). Introduction to Artificial Intelligence (2nd ed.). Springer.
+
 -Harrell, F. J. E. (2015). Regression Modeling Strategies (2nd ed.). Springer.
+
 -Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning. Springer.
+
 -Heumann, C., & Schomaker, M. (2016). Introduction to Statistics and Data Analysis. Springer.
+
 -Igual, L., & Seguí, S. (2017). Introduction to Data Science. Springer.
+
 -James, G., Witten, D., Hastie, T., & Tibshirani, R. (2017). An Introduction to Statistical Learning (8th ed.). Springer.
